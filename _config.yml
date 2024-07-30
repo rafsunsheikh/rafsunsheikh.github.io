@@ -21,7 +21,7 @@ repository               : "rafsunsheikh/rafsunsheikh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pp.jpeg" # URL of your avatar image
+  avatar           : "pp.jpeg" # URL of your avatar image
   name             : "MD Rafsun Sheikh"
   pronouns         : "he/him" 
   bio              : "Retired Captain at Bangladesh Army | Provides Communication | Machine Learning & Blockchain Enthusiast | Researcher | Open to Industry & Academic Opportunities"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Muhammad-Sheikh-51"
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : "muhammad.r.sheikh.9"
   flickr           : # Username
   foursquare       : # Username
