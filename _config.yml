@@ -21,7 +21,7 @@ repository               : "rafsunsheikh/rafsunsheikh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pp.jpeg" # URL of your avatar image
+  avatar           : "images/pp.jpeg" # URL of your avatar image
   name             : "MD Rafsun Sheikh"
   pronouns         : "he/him" 
   bio              : "Retired Captain at Bangladesh Army | Provides Communication | Machine Learning & Blockchain Enthusiast | Researcher | Open to Industry & Academic Opportunities"
