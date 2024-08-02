@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" width="100%" height="600px"></iframe>
+<iframe src="/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" width="100%" height="600px"></iframe>
 
 <p>
-  <a href="files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>Download my CV</a>
+  <a href="/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>Download my CV</a>
 </p>
 
 <!-- {% include base_path %}
