@@ -22,7 +22,7 @@ author_profile: true
 
 {% include base_path %}
 
-# IT Projects Portfolio
+# IT Projects
 
 ## Image Upscaling Application
 [Image Upscaling Application](https://github.com/rafsunsheikh/image_upscaling)  
