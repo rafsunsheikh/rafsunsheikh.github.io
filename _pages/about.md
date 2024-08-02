@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hello! 
+
 I'm Rafsun, a Computer Science student with interest in Machine Learning, Natural Language Processing, Computer Vision and Blockchain.
 
 I have completed my Bachelor of Science in Computer Science and Engineering from Military Institutue of Science and Technology ([MIST](https://mist.ac.bd/)), Dhaka, Bangladesh. My Bachelor thesis was based on Computer vision and I was supervised my Professor [Muhammad Nazrul Islam](https://mist.ac.bd/department/cse/facultyMembers/lt_col_muhammad_nazrul_islam_phd-47). I have served in the [Bangladesh Army](https://www.army.mil.bd/) as a Captain for 8+ years. I love to play Basketball, Badminton and Cricket in my free time.  
