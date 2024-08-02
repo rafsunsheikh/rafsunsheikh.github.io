@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
 <!-- ---
 layout: archive
 title: "Portfolio"
@@ -13,14 +20,8 @@ author_profile: true
 {% endfor %} -->
 
 
----
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
----
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 # IT Projects
 
