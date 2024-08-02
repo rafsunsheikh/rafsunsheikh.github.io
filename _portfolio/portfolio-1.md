@@ -1,6 +1,6 @@
 ---
-title: "Image Upscaling Application"
-excerpt: "an Image Upscaling Application that utilizes deep learning models to enhance the resolution of images.<br/><a href="https://github.com/rafsunsheikh/image_upscaling">Github Repository</a>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
