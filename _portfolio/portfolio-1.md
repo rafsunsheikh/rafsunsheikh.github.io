@@ -1,6 +1,6 @@
 ---
 title: "Led US$1.4 Million Surveillance and Security Establishment Project"
-excerpt: "Project"
+excerpt: "Surveillance and Security Project"
 collection: portfolio
 date: 2022-02-01
 ---
