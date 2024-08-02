@@ -7,7 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" width="100%" height="600px"></iframe>
+
+<p>
+  <a href="files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>Download my CV</a>
+</p>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
