@@ -1,6 +1,6 @@
 ---
 title: "Led US$1.4 Million Surveillance and Security Establishment Project"
-excerpt: "Spearheaded the planning, execution, and management of a high-stakes surveillance and security project within the 81 km long "Forcibly Displaced Myanmar Nationals" Camps, Cox's Bazar, Bangladesh."
+excerpt: "Project"
 collection: portfolio
 date: 2022-02-01
 ---
