@@ -6,6 +6,8 @@ date: 2023-03-01
 ---
 
 **Location:** Cox’s Bazar, Bangladesh
+
+
 **Timeline:** March 2023 - August 2023
 
 - **Redesigned Network Architecture:** Engineered a comprehensive redesign of the network architecture for the 10 Infantry Division, optimising communication and transmission capabilities. Innovatively restructured the optical fibre layout and microwave transmission infrastructure to enhance efficiency and reliability.

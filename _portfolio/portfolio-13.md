@@ -6,6 +6,8 @@ date: 2024-02-01
 ---
 
 **Location:** Ramu Cantonment, Cox's Bazar, Bangladesh
+
+
 **Timeline:** January 2024 - February 2024
 
 - **Project Description:** Integrating sophisticated models into user-friendly applications is becoming increasingly important in the rapidly evolving world of AI and machine learning. That leads to creating a document-driven chat application using Streamlit and LlamaCPP. This application allows users to upload and interact with text documents through a chat interface powered by LlamaCPP embeddings and the Qwen-0.5b-Chat model.

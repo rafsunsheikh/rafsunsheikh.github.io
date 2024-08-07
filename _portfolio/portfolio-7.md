@@ -6,6 +6,8 @@ date: 2023-03-01
 ---
 
 **Location:** Ramu Cantonment, Cox's Bazar, Bangladesh
+
+
 **Timeline:** February 2023 - March 2023
 
 - **Project Description:** Business Alumni Employability – a web application which revolutionises career predictions for business graduates. By leveraging educational background, degree, subject major, and location data, including city and state, the platform precisely generates tailored job titles and industry recommendations, job industry and other valuable predictions. Business Alumni Employability empowers business graduates to navigate their career paths confidently and clearly by predicting opportunities based on individual profiles.

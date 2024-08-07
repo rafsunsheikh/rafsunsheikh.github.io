@@ -6,6 +6,8 @@ date: 2023-05-01
 ---
 
 **Location:** Ramu Cantonment, Cox's Bazar, Bangladesh
+
+
 **Timeline:** March 2023 - May 2023
 
 - **Project Description:** A generative AI chatbot for university which is designed to answer instant inquiries on custom university topics like admission, academics, research, alumni, student facilites and so on. With its unique capability to learn from just a single document, Ask-Uon efficiently gathers insights and knowledge, delivering tailored responses to questions with accuracy and speed. Whether seeking information on niche subjects or requiring expertise on specialised topics, Ask-Uon is a go-to companion for swift and reliable assistance for any university.

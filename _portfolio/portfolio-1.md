@@ -6,6 +6,8 @@ date: 2022-02-01
 ---
 
 **Location:** Cox’s Bazar, Bangladesh
+
+
 **Timeline:** February 2022 - December 2023
 
 - **Project Management:** Spearheaded the planning, execution, and management of a high-stakes surveillance and security project named **"Ashrayan Project"** within the 81 km long "Forcibly Displaced Myanmar Nationals" Camps. As the Project Officer, orchestrated a team of 120+ technicians to establish a comprehensive security infrastructure, deploying over 2000 strategically positioned security cameras across the remote and hilly terrain.
