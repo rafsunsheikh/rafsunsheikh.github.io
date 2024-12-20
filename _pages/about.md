@@ -8,7 +8,10 @@ redirect_from:
 ---
 Hello! 
 
-I'm Rafsun, a Computer Science student with interest in Machine Learning, Natural Language Processing, Computer Vision and Blockchain.
+I'm Rafsun, a PhD student at the University of Newcastle, Australia. 
+
+My research is based on Artificial Intelligence, Blockchain and Cybersecurity. 
+
 
 I have completed my Bachelor of Science in Computer Science and Engineering from Military Institutue of Science and Technology ([MIST](https://mist.ac.bd/)), Dhaka, Bangladesh. My Bachelor thesis was based on Computer vision and I was supervised my Professor [Muhammad Nazrul Islam](https://mist.ac.bd/department/cse/facultyMembers/lt_col_muhammad_nazrul_islam_phd-47). I have served in the [Bangladesh Army](https://www.army.mil.bd/) as a Captain for 8+ years. I love to play Basketball, Badminton and Cricket in my free time.  
 
@@ -32,11 +35,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
