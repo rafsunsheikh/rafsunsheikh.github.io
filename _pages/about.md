@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello! 
 
-I'm Rafsun, a PhD student at the University of Newcastle, Australia. 
+I'm Rafsun, a PhD student at the University of Newcastle, Australia. My supervisors are [Professor Shah J Miah](https://www.newcastle.edu.au/profile/shah-miah), [Professor James Skinner](https://www.newcastle.edu.au/profile/james-skinner) and [Peter Cook](https://www.linkedin.com/in/petercookaustralia/)
 
 My research is based on Artificial Intelligence, Blockchain and Cybersecurity. 
 
