@@ -1,4 +1,4 @@
-<!--- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -12,44 +12,15 @@ redirect_from:
 <p>
   <a href="https://rafsunsheikh.github.io/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>Download my CV</a>
 </p>
---->
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-<!-- Responsive PDF Embed -->
-<iframe 
-  src="https://rafsunsheikh.github.io/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" 
-  width="100%" 
-  height="600px" 
-  style="border: none;">
-</iframe>
-
-<!-- Download Button -->
-<p style="text-align: center; margin-top: 10px;">
-  <a href="https://rafsunsheikh.github.io/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>
-    <button style="background-color: #0073e6; color: white; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer;">
-      📄 Download my CV
-    </button>
-  </a>
-</p>
-
-<!-- PDF Load Fallback Message -->
-<noscript>
-  <p style="text-align: center; color: red;">
-    Your browser does not support embedded PDFs. 
-    <a href="https://rafsunsheikh.github.io/files/MD_Rafsun_Sheikh_Curriculum_Vitae.pdf" download>
-      Click here to download it.
-    </a>
-  </p>
-</noscript>
-
+<!-- Audio Player for CV Narration -->
+<h3 style="text-align: center;">🎧 Listen to My CV</h3>
+<p style="text-align: center;">For an audio version of my CV, listen below:</p>
+<audio controls style="display: block; margin: 0 auto; width: 80%;">
+  <source src="https://rafsunsheikh.github.io/files/MD Rafsun Sheikh_Curriculum_Vitae.wav" type="audio/mpeg">
+  Your browser does not support the audio element. 
+  <a href="https://rafsunsheikh.github.io/files/MD_Rafsun_Sheikh_CV_Audio.mp3" download>Download Audio</a>
+</audio>
 
 <!-- {% include base_path %}
 
