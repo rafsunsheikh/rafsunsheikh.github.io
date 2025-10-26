@@ -218,15 +218,12 @@ redirect_from:
 ## References
 
 * **Prof. Shah J. Miah** — Professor of Business Analytics; Program Director, Bachelor of Business Analytics; Director of Alumni Engagement, Newcastle Business School, The University of Newcastle
-  **Phone:** (+61) 2 4985 4043
   **Email:** [shah.miah@newcastle.edu.au](mailto:shah.miah@newcastle.edu.au)
 
-* **Lt Col Muhammad Nazrul Islam, PhD** — Associate Professor, Department of CSE, MIST
-  **Phone:** (+88) 01725560099
+* **Lieutenant Colonel Muhammad Nazrul Islam, PhD** — Associate Professor, Department of CSE, MIST
   **Email:** [nazrul@cse.mist.ac.bd](mailto:nazrul@cse.mist.ac.bd)
 
-* **Lt Col ASM Nur Mokarrom** — Commanding Officer, 7 Signal Battalion
-  **Phone:** (+88) 01769102126
+* **Lieutenant Colonel ASM Nur Mokarrom** — Commanding Officer, 7 Signal Battalion
   **Email:** [7sigbn.co@army.mil.bd](mailto:7sigbn.co@army.mil.bd)
 
 ---
