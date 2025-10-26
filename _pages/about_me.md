@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <!-- Audio Player for CV Narration -->
-<h3 style="text-align: center;">🎧 Listen to My CV</h3>
+<!-- <h3 style="text-align: center;">🎧 Listen to My CV</h3>
 <p style="text-align: center;">For an audio version of my CV, listen below:</p>
 <audio controls style="display: block; margin: 0 auto; width: 80%;">
   <source src="https://rafsunsheikh.github.io/files/MD Rafsun Sheikh_Curriculum_Vitae.mp3" type="audio/mpeg">
@@ -15,7 +15,7 @@ redirect_from:
   <a href="https://rafsunsheikh.github.io/files/MD Rafsun Sheikh_Curriculum_Vitae.mp3" download>Download Audio</a>
 </audio>
 
-<p></p>
+<p></p> -->
 
 
 <!-- <iframe src="https://rafsunsheikh.github.io/files/MD Rafsun Sheikh_Curriculum_Vitae.pdf" width="100%" height="600px"></iframe>
@@ -83,8 +83,14 @@ Service and leadership
 * Currently signed in to 43 different slack teams --> -->
 
 ---
-
-permalink: /about/
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+<!-- permalink: /about/
 title: "MD Rafsun Sheikh"
 author_profile: true
 redirect_from:
@@ -92,7 +98,7 @@ redirect_from:
 * /cv/
 * /resume/
 
----
+--- -->
 
 > PhD Researcher in Business Systems & Analytics | AI • Blockchain • Cybersecurity in FinTech
 
