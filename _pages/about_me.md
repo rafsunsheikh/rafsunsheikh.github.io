@@ -56,15 +56,6 @@ redirect_from:
   **Military Institute of Science & Technology (MIST)**
 
 ---
-
-## Publications
-
-1. **An Efficient Transfer Learning Model for Predicting Forged (Handwritten) Signature** — Co-authored with Prof. **Nazrul Islam Khan**. *2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)*, Rajshahi, Bangladesh.
-2. **Five Significant Issues of Digital Payment Systems – A Content Analysis** — Co-authored with Prof. **Shah Jahan Miah** and **Peter Cook**. *Manuscript submitted for publication.*
-3. **Towards Designing an Intelligent Quantification: AI-Driven Automation for Assessing Global University Ranking** — Co-authored with Prof. **Shah Jahan Miah**. *Manuscript submitted for publication.*
-
----
-
 ## Courses & Certifications
 
 * **Signals Officers Basic Course**, Signal Training Center & School, Bangladesh Army — *Grade: 73%*
@@ -80,7 +71,6 @@ redirect_from:
 * **Industrial Training**: IPvision Canada Inc. — *2021*
 
 ---
-
 ## Selected IT Projects
 
 * **THE-WUR World University Ranking Application** — Web application aligned with Times Higher Education World University Rankings.
