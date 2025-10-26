@@ -52,7 +52,7 @@ redirect_from:
   **Newcastle Business School, The University of Newcastle**
   *Commenced December 2024*
 
-* **B.Sc. in Computer Science & Engineering** — *CGPA 3.47/4 (2022)*
+* **B.Sc. in Computer Science & Engineering** — *First Class (2022)*
   **Military Institute of Science & Technology (MIST)**
 
 ---
