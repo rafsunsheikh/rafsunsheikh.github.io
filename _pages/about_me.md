@@ -126,8 +126,8 @@ redirect_from:
 * Artificial Intelligence
 * Blockchain
 * Design Science Research
----
 
+---
 ## Industry Experience
 
 ### IPvision Canada Inc — *Intern*
@@ -144,8 +144,8 @@ redirect_from:
 
 * AI and Blockchain
 * Stablecoin
----
 
+---
 ## Military Experience 
 
 ### Bangladesh Army
