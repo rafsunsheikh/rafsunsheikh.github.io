@@ -82,23 +82,24 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams --> -->
 
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
-<!-- permalink: /about/
+--- -->
+permalink: /about_me/
 title: "MD Rafsun Sheikh"
 author_profile: true
 redirect_from:
+  - /resume
 
 * /cv/
 * /resume/
 
---- -->
+---
 
 > PhD Researcher in Business Systems & Analytics | AI • Blockchain • Cybersecurity in FinTech
 
