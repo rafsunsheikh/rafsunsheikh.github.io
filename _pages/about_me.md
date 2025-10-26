@@ -57,17 +57,6 @@ redirect_from:
 
 ---
 
-## Industry Experience
-
-### IPvision Canada Inc — *Intern*
-
-**Feb 2021 – Mar 2021**
-
-* Participated in the development of **RingID**, a social media platform.
-* Contributed to **testing**, **debugging**, and **user interface design**.
-
----
-
 ## Publications
 
 1. **An Efficient Transfer Learning Model for Predicting Forged (Handwritten) Signature** — Co-authored with Prof. **Nazrul Islam Khan**. *2021 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)*, Rajshahi, Bangladesh.
@@ -107,8 +96,59 @@ redirect_from:
 * **Bio Wallet** — Biometric-authenticated digital wallet *(2022)*.
 
 ---
+## Academic Experience
 
-## Military Career — Bangladesh Army
+### Newcastle Business School — *Sessional Tutor*
+
+**Feb 2025 – June 2025**
+
+* BUSA3001 - Artificial Intelligence in Business
+
+
+### Newcastle Business School — *Research Assistant*
+
+**June 2025 – Present**
+
+* Business Systems and Analytics
+
+
+### Newcastle Business School — *Associate Lecturer*
+
+**June 2025 – Present**
+
+* BUSA3007 - Data Governance Using Blockchain for Business
+
+
+###  Australasian Conference on Information Systems (ACIS) — *Reviewer*
+
+**Feb 2025 – Present**
+
+* Artificial Intelligence
+* Blockchain
+* Design Science Research
+---
+
+## Industry Experience
+
+### IPvision Canada Inc — *Intern*
+
+**Feb 2021 – Mar 2021**
+
+* Participated in the development of **RingID**, a social media platform.
+* Contributed to **testing**, **debugging**, and **user interface design**.
+
+
+### AUDD - Australian Digital Dollar — *Junior Full Stack Developer*
+
+**May 2025 – Present**
+
+* AI and Blockchain
+* Stablecoin
+---
+
+## Military Experience 
+
+### Bangladesh Army
 
 **Captain** — *Dec 2020 – Mar 2024*
 **Lieutenant** — *Dec 2018 – Dec 2020*
