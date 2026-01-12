@@ -1,5 +1,5 @@
 ---
-title: "BUSA3001 - Artificial Intelligence in Business"
+title: "BUSA3007 - Data Governance Using BLockchain for Business"
 collection: teaching
 type: "Tutor"
 permalink: /teaching/2025-july-teaching-4
