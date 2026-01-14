@@ -20,6 +20,7 @@ main:
 
   - title: "Play Mancala"
     url: /mancala/
+    icon: "fa fa-gamepad"
     
   # - title: "Guide"
   #   url: /markdown/
