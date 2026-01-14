@@ -11,12 +11,15 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "About Me"
     url: /about_me/
+
+  - title: "Play Mancala"
+    url: /mancala/
     
   # - title: "Guide"
   #   url: /markdown/

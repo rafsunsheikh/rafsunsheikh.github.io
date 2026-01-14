@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mancala</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Let's Play</p>
+        <h1>Mancala</h1>
+        <p class="lede">We are celebrating the World Logic Day 2026!</p>
+        <p class="lede">Classic rules, now with solo (vs AI) or two-player modes. Bottom row is Player 1, top row is Player 2.</p>
+        <p class="lede">
+          <a class="ghost-pill" href="https://www.youtube.com/watch?v=OX7rj93m6o8" target="_blank" rel="noopener noreferrer">Watch how to play (video)</a>
+          <a class="ghost-pill" href="https://en.wikipedia.org/wiki/Mancala" target="_blank" rel="noopener noreferrer">Read Mancala history</a>
+        </p>
+      </div>
+      <div class="controls">
+        <div class="mode-toggle">
+          <button class="pill-ghost mode-btn active" data-mode="PVP" type="button">Two players</button>
+          <button class="pill-ghost mode-btn" data-mode="SOLO" type="button">Solo vs AI</button>
+        </div>
+        <button id="new-game" class="pill" type="button">New game</button>
+        <div class="audio-controls">
+          <button id="audio-toggle" class="pill-ghost" type="button">Play music</button>
+          <input id="audio-volume" type="range" min="0" max="1" step="0.05" value="0.4" aria-label="Music volume">
+        </div>
+        <div class="legend">
+          <span class="dot p1"></span><span>Player 1 (bottom)</span>
+          <span class="dot p2"></span><span>Player 2 (top)</span>
+        </div>
+      </div>
+    </header>
+
+    <section class="status">
+      <div class="status-row">
+        <div>
+          <p class="label">Turn</p>
+          <p id="turn" class="value">Player 1</p>
+        </div>
+        <div>
+          <p class="label">Message</p>
+          <p id="message" class="value">Choose a pit to sow from.</p>
+        </div>
+        <div>
+          <p class="label">Mode</p>
+          <p id="mode" class="value">Two players</p>
+        </div>
+        <div class="score">
+          <p class="label">Stores</p>
+          <p class="value"><span id="store-p1">0</span> - <span id="store-p2">0</span></p>
+        </div>
+      </div>
+      <div id="game-over" class="banner hidden"></div>
+    </section>
+
+    <main class="board-wrap">
+      <div class="store" data-store="13">
+        <p class="store-label">Player 2</p>
+        <div class="store-value" id="pit-13">0</div>
+      </div>
+
+      <div class="pit-grid">
+        <div class="row row-top">
+          <button class="pit" data-pit="12" aria-label="Pit 12"></button>
+          <button class="pit" data-pit="11" aria-label="Pit 11"></button>
+          <button class="pit" data-pit="10" aria-label="Pit 10"></button>
+          <button class="pit" data-pit="9" aria-label="Pit 9"></button>
+          <button class="pit" data-pit="8" aria-label="Pit 8"></button>
+          <button class="pit" data-pit="7" aria-label="Pit 7"></button>
+        </div>
+        <div class="row row-bottom">
+          <button class="pit" data-pit="0" aria-label="Pit 0"></button>
+          <button class="pit" data-pit="1" aria-label="Pit 1"></button>
+          <button class="pit" data-pit="2" aria-label="Pit 2"></button>
+          <button class="pit" data-pit="3" aria-label="Pit 3"></button>
+          <button class="pit" data-pit="4" aria-label="Pit 4"></button>
+          <button class="pit" data-pit="5" aria-label="Pit 5"></button>
+        </div>
+      </div>
+
+      <div class="store" data-store="6">
+        <p class="store-label">Player 1</p>
+        <div class="store-value" id="pit-6">0</div>
+      </div>
+    </main>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>
