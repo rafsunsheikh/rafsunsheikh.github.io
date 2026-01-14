@@ -317,3 +317,49 @@ h1 {
     font-size: 32px;
   }
 }
+
+@media (max-width: 560px) {
+  .page {
+    padding: 20px 14px 32px;
+  }
+
+  .hero {
+    padding: 16px;
+  }
+
+  .controls {
+    width: 100%;
+    align-items: stretch;
+  }
+
+  .audio-controls {
+    flex-wrap: wrap;
+  }
+
+  .audio-controls input[type="range"] {
+    width: 100%;
+  }
+
+  .board-wrap {
+    padding: 12px;
+    gap: 12px;
+  }
+
+  .pit-grid {
+    padding: 12px;
+    gap: 10px;
+  }
+
+  .row {
+    gap: 8px;
+  }
+
+  .pit {
+    height: 64px;
+    font-size: 16px;
+  }
+
+  .store-value {
+    font-size: 28px;
+  }
+}
