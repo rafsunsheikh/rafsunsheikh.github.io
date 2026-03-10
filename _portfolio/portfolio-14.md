@@ -1,13 +1,13 @@
 ---
 title: "Bangladesh Interactive Location Map"
-excerpt: "Interactive GIS-style map for exploring Bangladesh locations."
+excerpt: "Tabbed interactive dashboard for exploring Bangladesh location data."
 collection: portfolio
 date: 2026-03-06
-link: /bangladesh_interactive_location_map.html
+link: /bangladesh_2026_election_visual_analysis.html
 ---
 
-**Project Type:** Interactive Web Map
+**Project Type:** Interactive Tabbed Dashboard
 
-**Live Map URL:** [/bangladesh_interactive_location_map.html](/bangladesh_interactive_location_map.html)
+**Live Dashboard URL:** [/bangladesh_2026_election_visual_analysis.html](/bangladesh_2026_election_visual_analysis.html)
 
-This project publishes an interactive location map for Bangladesh as a standalone page, linked from the portfolio archive.
+This project publishes a tabbed visual dashboard for Bangladesh location insights as a standalone page, linked from the portfolio archive.
