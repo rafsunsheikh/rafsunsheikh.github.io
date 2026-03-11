@@ -1,6 +1,6 @@
 ---
-title: "Bangladesh Interactive Location Map"
-excerpt: "Tabbed interactive dashboard for exploring Bangladesh location data."
+title: "Bangladesh 2026 Election Visual Analysis"
+excerpt: "Tabbed interactive dashboard for Bangladesh 2026 election location and sentiment insights."
 collection: portfolio
 date: 2026-03-06
 link: /bangladesh_2026_election_visual_analysis.html
@@ -10,4 +10,4 @@ link: /bangladesh_2026_election_visual_analysis.html
 
 **Live Dashboard URL:** [/bangladesh_2026_election_visual_analysis.html](/bangladesh_2026_election_visual_analysis.html)
 
-This project publishes a tabbed visual dashboard for Bangladesh location insights as a standalone page, linked from the portfolio archive.
+This portfolio item publishes the Bangladesh 2026 Election Visual Analysis dashboard as a standalone page.
