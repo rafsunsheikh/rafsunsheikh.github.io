@@ -1,5 +1,11 @@
 # Location Analytics Report
 
+## Latest Updates (March 10, 2026)
+- Location dashboard visuals are scaled by `x5`.
+- Tabbed dashboard excludes: `Growth Delta`, `Mentions Map Period A`, `Mentions Map Period B`, `Mentions Growth Map`.
+- Interactive location map was generated with `--mention-multiplier 5`.
+- Note: this markdown report contains the original analytics table values.
+
 ## Overall Top Locations
 | location | total_mentions | total_unique_comments |
 | --- | --- | --- |
