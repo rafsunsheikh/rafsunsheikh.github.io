@@ -12,6 +12,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Live Projects"
+    url: /live-projects/
+
   - title: "Blog Posts"
     url: /year-archive/
     
