@@ -1,0 +1,274 @@
+/* ==========================================================================
+   TERMINAL THEME
+   Black background, green accents, typewriter type. Loaded last in
+   main.scss so it wins over the light defaults hard-coded in the theme.
+   ========================================================================== */
+
+$term-green       : $primary-color;              // bright highlight green
+$term-green-soft  : $link-color;                 // link green
+$term-muted       : #9aa39d;                     // secondary text
+$term-panel       : #050a07;                     // slightly lifted black
+$term-line        : $border-color;               // thin green dividers
+
+html, body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+body {
+  letter-spacing: 0.01em;
+}
+
+::selection {
+  background: $term-green;
+  color: #000;
+}
+
+/* Headings: plain white type, a green rule under page titles */
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title {
+  color: #fff;
+  font-family: $header-font-family;
+  font-weight: 700;
+}
+
+.page__title {
+  border-bottom: 1px solid $term-line;
+  padding-bottom: 0.4em;
+}
+
+/* Bold text gets the green highlighter look */
+.page__content strong,
+.archive__item-excerpt strong {
+  background: $term-green;
+  color: #000;
+  padding: 0 0.2em;
+}
+
+/* Links */
+a { color: $term-green-soft; }
+a:hover { color: $link-color-hover; }
+a:visited { color: $term-green-soft; }
+
+/* Masthead and menu */
+.masthead {
+  background: $background-color;
+  border-bottom: 1px solid $term-line;
+}
+
+.masthead__inner-wrap {
+  font-family: $global-font-family;
+}
+
+.greedy-nav {
+  background: $background-color;
+
+  .visible-links li:first-child a {
+    color: $term-green;
+  }
+
+  .visible-links a:before {
+    background: $term-green;
+  }
+
+  button {
+    background-color: $term-green;
+    color: #000;
+  }
+
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: #000;
+  }
+
+  .hidden-links {
+    background: $term-panel;
+    border-color: $term-line;
+
+    a:hover {
+      background: $term-green;
+      color: #000;
+    }
+
+    &:after {
+      border-color: $term-panel transparent;
+    }
+  }
+}
+
+/* Sidebar author profile */
+.author__avatar img {
+  border-color: $term-line;
+}
+
+.author__name { color: #fff; }
+
+.author__urls {
+  background: $term-panel;
+  border-color: $term-line;
+
+  &:before { border-color: $term-line transparent; }
+  &:after { border-color: $term-panel transparent; }
+
+  a { color: $text-color; }
+  a:hover { color: $term-green; }
+}
+
+.author__urls-wrapper button {
+  background: $background-color;
+  color: $term-green;
+  border-color: $term-green;
+}
+
+/* Archive and portfolio lists */
+.archive__item-title a { color: #fff; }
+.archive__item-title a:hover { color: $term-green; }
+.archive__item-excerpt,
+.page__meta,
+.archive__item .page__meta { color: $term-muted; }
+
+.archive__subtitle,
+.page__content .archive__subtitle {
+  color: $term-muted;
+  border-bottom: 1px solid $term-line;
+}
+
+.list__item,
+.archive__item {
+  border-color: $term-line;
+}
+
+/* Tables */
+table {
+  border-color: $term-line;
+}
+
+thead {
+  background: $term-panel;
+  border-bottom: 1px solid $term-green;
+}
+
+th, td {
+  border-bottom: 1px solid $term-line;
+}
+
+tbody tr:hover {
+  background: $term-panel;
+}
+
+/* Code */
+code, pre, kbd {
+  font-family: $monospace;
+}
+
+:not(pre) > code {
+  background: $code-background-color;
+  color: $term-green-soft;
+  border: 1px solid $term-line;
+}
+
+/* Buttons: solid green with black text, like a terminal prompt */
+.btn,
+.btn--primary,
+.btn--inverse {
+  background-color: $term-green;
+  color: #000 !important;
+  border: 1px solid $term-green !important;
+  font-family: $global-font-family;
+
+  &:hover {
+    background-color: #000;
+    color: $term-green !important;
+  }
+}
+
+/* Notices */
+.notice,
+.notice--primary,
+.notice--info,
+.notice--success,
+.notice--warning,
+.notice--danger {
+  background-color: $term-panel;
+  color: $text-color;
+  border-left: 3px solid $term-green;
+  box-shadow: none;
+}
+
+/* Forms */
+input, textarea, select {
+  background-color: $term-panel;
+  color: $text-color;
+  border: 1px solid $term-line;
+}
+
+/* Horizontal rules and blockquotes */
+hr {
+  border-top: 1px solid $term-line;
+}
+
+blockquote {
+  border-left: 3px solid $term-green;
+  color: $term-muted;
+}
+
+/* Footer */
+.page__footer {
+  background-color: $background-color;
+  border-top: 1px solid $term-line;
+  color: $term-muted;
+
+  a { color: $term-green-soft; }
+}
+
+/* Table of contents */
+.toc {
+  background: $term-panel;
+  border-color: $term-line;
+
+  .nav__title {
+    background: $term-green;
+    color: #000;
+  }
+}
+
+.toc__menu a {
+  color: $text-color;
+  border-bottom-color: $term-line;
+
+  &:hover { color: $term-green; background: transparent; }
+}
+
+/* Pagination */
+.pagination--pager,
+.pagination li a {
+  color: $term-green-soft;
+  border-color: $term-line;
+}
+
+/* Home page has an empty title; hide its empty heading and rule */
+.page__title:empty {
+  display: none;
+}
+
+/* Portfolio and archive titles: no heavy underline, green on hover */
+.archive__item-title a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* The typewriter font is wider, so let long sidebar entries wrap */
+.author__urls li,
+.author__urls a {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Dark brand icons vanish on black; show them in white */
+.fa-github, .fa-github-square, .fa-x-twitter, .fa-medium {
+  color: #fff !important;
+}

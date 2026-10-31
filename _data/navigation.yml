@@ -15,11 +15,11 @@ main:
   - title: "Live Projects"
     url: /live-projects/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "About Me"
     url: /about_me/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Play Mancala"
     url: /mancala/
