@@ -1,7 +1,7 @@
 ---
 title: "BUSA3001 - Artificial Intelligence in Business"
 collection: teaching
-type: "Sessional"
+type: "Tutor"
 permalink: /teaching/2025-february-teaching-3
 venue: "Newcastle Business School, the University of Newcastle"
 date: 2025-02-01 - 2025-06-30
